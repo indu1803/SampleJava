@@ -6,6 +6,6 @@ public class ClassSample {
 System.out.println("am person 1");
 System.out.println("iam person 2");
 
-	}
-
+System.out.println(" iam person 3");
+}
 }
